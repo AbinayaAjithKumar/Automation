@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1">
+	<test name="Nopackage">
+		<classes>
+			<class name = "com.test.wrappers.CommonFunctionalities" />
+			<class name = "com.test.testcases.TC001LogIn"/>
+		</classes>
+	</test>
+</suite>
